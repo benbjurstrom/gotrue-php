@@ -1,5 +1,6 @@
 .phpunit.result.cache
 /vendor
+.DS_Store
 .env
 .env.backup
 .env.test
